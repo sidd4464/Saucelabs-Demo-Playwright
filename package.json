@@ -1,0 +1,16 @@
+{
+  "name": "saucedemo-playwright-tests",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:report": "playwright show-report",
+    "clean-reports": "rm -rf playwright-report junit-report.xml || true"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.38.0",
+    "@types/node": "^24.10.1",
+    "dotenv": "^16.0.0"
+  }
+}
