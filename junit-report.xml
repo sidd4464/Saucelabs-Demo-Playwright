@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="19.203208">
+<testsuite name="checkout.spec.ts" timestamp="2025-11-16T18:40:43.751Z" hostname="chromium" tests="1" failures="0" skipped="0" time="18.185" errors="0">
+<testcase name="SauceDemo checkout flow — select 3 random items and complete checkout › happy path: add 3 random items and finish order" classname="checkout.spec.ts" time="18.185">
+</testcase>
+</testsuite>
+</testsuites>
